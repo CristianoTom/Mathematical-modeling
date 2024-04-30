@@ -1,2 +1,2 @@
-# vegetable-dog
-hello world!
+# mathmodelingcode
+    Provide some simple code to solve the basic problem
